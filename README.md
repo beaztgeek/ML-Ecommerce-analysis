@@ -29,22 +29,22 @@ The Streamlit application allows users to:
 1. Clone the repository and install dependencies:
    ```bash
    pip install -r requirements.txt
-
+   ```
 Data analysis
    ```bash
    python inspect_data.py 
-
+   ```
 Model training generates sale_model.pkl
    ```bash
    python train_ecommerce.py
-
+   ```
 Testing case
    ```bash
    python test_client.py 
-
+   ```
 Run web app several cases to test
    ```bash
    streamlit run app.py
-   
+   ```
    
    
